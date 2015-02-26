@@ -1,0 +1,2 @@
+# StreamMediaMemand
+一个基于live555系统做了增强，在些基础上加入了更多的视频格式
